@@ -14,6 +14,6 @@ Using PyQt6 and pyqtgraph, plot a grid and two standard basis vectors, set new b
 
 
 #### Links to Influences:
-- [https://shad.io/MatVis/]
-- [https://github.com/chanrt]
-- [https://www.3blue1brown.com/]
+- https://shad.io/MatVis/
+- https://github.com/chanrt
+- https://www.3blue1brown.com/
